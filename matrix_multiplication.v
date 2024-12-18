@@ -40,7 +40,7 @@ module matrix_multiplication
 
 
 
-  MATLAB_Function u_MATLAB_Function (.a(x),  // int8
+  MATLAB__fn u_MATLAB_Function (.a(x),  // int8
                                      .b(x1),  // int8
                                      .y(y)  // int8
                                      );
